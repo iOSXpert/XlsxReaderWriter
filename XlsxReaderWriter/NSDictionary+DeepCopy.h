@@ -8,14 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSDictionary (DeepCopy)
+@interface NSDictionary (BRADeepCopy)
 
 - (NSMutableDictionary *)mutableDeepCopy;
 
 @end
 
-@interface NSArray (DeepCopy)
+@interface NSArray (BRADeepCopy)
 
 - (NSMutableArray *)mutableDeepCopy;
 
 @end
+
