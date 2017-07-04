@@ -92,7 +92,7 @@
 		22225F301C47F75000256993 /* XlsxReaderWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 22225F2F1C47F72B00256993 /* XlsxReaderWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22225F351C481E2500256993 /* NativeFont+BoldItalic.m in Sources */ = {isa = PBXBuildFile; fileRef = 4580C6CB1A15171100790ED5 /* NativeFont+BoldItalic.m */; };
 		454D49FD1B4B27E40053CD86 /* BRATheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 454D49FC1B4B27E40053CD86 /* BRATheme.m */; };
-		455542A71C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 455542A61C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h */; };
+		455542A71C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 455542A61C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		455C23B61BB908D300CEE3A2 /* BRAVmlDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 455C23B51BB908D300CEE3A2 /* BRAVmlDrawing.m */; };
 		457B68821B9DE8FC0096E1D1 /* SwiftTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457B68811B9DE8FC0096E1D1 /* SwiftTestCase.swift */; };
 		4580C6771A15157100790ED5 /* BRARelationship.m in Sources */ = {isa = PBXBuildFile; fileRef = 4580C6741A15157100790ED5 /* BRARelationship.m */; };
